@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaashkar
-- 👀 I’m interested in cybersecurity and full-stack development
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in App development, ML/AI, Cloud Computing and Cyber Security
+- 🌱 I’m currently learning all that i can.
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me :
 - email:vaashkarpaul2050@gmail.com
