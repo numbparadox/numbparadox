@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all that i can.
 - 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me :
-- email:vaashkarpaul2050@gmail.com
+- email : vaashkarpaul2050@gmail.com
 
 <!---
 numbparadox/numbparadox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
